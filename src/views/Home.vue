@@ -25,20 +25,20 @@
         <b-carousel-slide img-src="carousel/lobby.jpg">
           <h1>Cofee Longue</h1>
           <p>Provides a classic and comfortable setting for guests to relax</p>
-          <p><a class="btn btn-lg btn-primary" href="about">See more</a></p>
+          <p><a class="btn btn-lg btn-primary" href="#/about">See more</a></p>
         </b-carousel-slide>
 
         <b-carousel-slide img-src="carousel/room.jpg">
           <h1>Exclusive Room</h1>
           <p>Take a good rest for more productivity</p>
-          <p><a class="btn btn-lg btn-primary" href="about">Learn more</a></p>
+          <p><a class="btn btn-lg btn-primary" href="#/about">Learn more</a></p>
         </b-carousel-slide>
 
         <!-- Slides with custom text -->
         <b-carousel-slide img-src="carousel/rooftop.jpg">
           <h1>Aesthetic Rooftop Cafe</h1>
           <p>Enjoy the day and night</p>
-          <p><a class="btn btn-lg btn-primary" href="about">Browse gallery</a></p>
+          <p><a class="btn btn-lg btn-primary" href="#/about">Browse gallery</a></p>
         </b-carousel-slide>
       </b-carousel>
 
@@ -127,7 +127,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld'
+  name: 'Home'
 }
 </script>
 

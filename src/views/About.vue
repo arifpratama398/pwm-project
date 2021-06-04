@@ -1,14 +1,14 @@
 <template>
   <div>
     <header>
-  <div class="navbar navbar-dark bg-dark shadow-sm">
-    <div class="container d-flex justify-content-between">
-      <a href="/" class="navbar-brand d-flex align-items-center">
-        <strong>Navy Hotel</strong>
-      </a>
-    </div>
-  </div>
-  </header>
+      <div class="navbar navbar-dark bg-dark shadow-sm">
+        <div class="container d-flex justify-content-between">
+          <a href="#/" class="navbar-brand d-flex align-items-center">
+            <strong>Navy Hotel</strong>
+          </a>
+        </div>
+      </div>
+    </header>
 
   <main role="main">
       <section class="jumbotron text-center">
@@ -87,7 +87,7 @@
 
 <script>
 export default {
-  name: 'DetailPage'
+  name: 'About'
 }
 </script>
 
